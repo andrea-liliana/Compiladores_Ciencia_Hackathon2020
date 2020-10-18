@@ -29,13 +29,22 @@ https://drive.google.com/file/d/1_7AFq-VKYVw_AqBdQ9XeCd-ndZkCu5Bg/view?usp=shari
 Para el código data_frame, el script te pedirá tus claves de acceso de desarrollador de twitter y el email, contraseña y user name de tu cuenta Pinterest.
 Cuentas:
 
+Twitter
+
 CONSUME_KEY = 'a2HFTe9RGtYPU2InMy7xOKVIR'
+
 CONSUME_SECRET = 'EFHrjws0LrhYOE9N2x0uYiErgsqWGofv8QF6kcubhBvciRFCwx'
+
 ACCESS_TOKEN = '1087941555229474817-LCtshi21hImsuVIurBQaz6kKIAgvqd'
+
 ACCESS_TOKEN_SECRET = 'Nu4BkqrpPyEbY1KeEAgv2CkLUXmzYHdn9jGP6KHV8g7Kb'
 
+Pinterest
+
 email='perroyat35@hotmail.com'
+
 password='Sanlorenzo812.'
+
 username='ianperrilliat'
 
 ![Screenshot](dash.JPG)

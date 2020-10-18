@@ -12,4 +12,4 @@ Méndez Muciño Bedani Fernanda
 
 Perrilliat García Ian
 
-![GitHub Logo](/dash.jpg)
+![GitHub Logo](edcoMooc/Compladores_Ciencia_Hackathon2020/dash.JPG)

@@ -12,4 +12,7 @@ Méndez Muciño Bedani Fernanda
 
 Perrilliat García Ian
 
-![GitHub Logo](edcoMooc/Compladores_Ciencia_Hackathon2020/dash.JPG)
+## Dashboard:
+https://public.tableau.com/profile/edco17#!/vizhome/Compiladores_Hachathon2020_MxSL/Dashboard1?publish=yes
+
+

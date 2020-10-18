@@ -16,3 +16,6 @@ Perrilliat García Ian
 https://public.tableau.com/profile/edco17#!/vizhome/Compiladores_Hachathon2020_MxSL/Dashboard1?publish=yes
 
 
+BBVA.xlsx es la base de datos principal con información de twitter.
+Redes.xlsx es la base secundario de distintas redes sociales.
+Data_Frame.py permite obtener y actualizar las bases de datos anteriores.

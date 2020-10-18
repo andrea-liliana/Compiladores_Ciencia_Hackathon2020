@@ -20,4 +20,7 @@ BBVA.xlsx es la base de datos principal con información de twitter.
 Redes.xlsx es la base secundario de distintas redes sociales.
 Data_Frame.py permite obtener y actualizar las bases de datos anteriores.
 
+El modelo de red neuronal no se puede subir a github ya que pasa el tamaño permitido, lo que se puede hacer para obtener dicho modelo, es correr el jupyter notebook. O se peude encontrar en este link:
+https://drive.google.com/file/d/1_7AFq-VKYVw_AqBdQ9XeCd-ndZkCu5Bg/view?usp=sharing
+
 ![Screenshot](dash.JPG)

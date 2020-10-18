@@ -12,3 +12,4 @@ Méndez Muciño Bedani Fernanda
 
 Perrilliat García Ian
 
+![GitHub Logo](/dash.jpg)

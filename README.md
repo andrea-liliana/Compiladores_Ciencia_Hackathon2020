@@ -8,8 +8,6 @@ Garcés Mondragón Eduardo Arturo
 
 Gómez Herrera María Andrea Liliana
 
-Méndez Muciño Bedani Fernanda
-
 Perrilliat García Ian
 
 ## Dashboard:
